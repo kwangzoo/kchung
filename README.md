@@ -1,2 +1,2 @@
-# Kwangzoo Chung
+# K. Chung
 Personal website for K. Chung
