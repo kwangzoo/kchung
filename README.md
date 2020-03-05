@@ -1,2 +1,2 @@
-# kwangzoo.github.io
+# Kwangzoo Chung
 Personal website for K. Chung
